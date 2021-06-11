@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2
+ERR3451456,https://github.com/nibscbioinformatics/testdata/raw/master/meta/ERR3451456_short_R1.fastq.gz,https://github.com/nibscbioinformatics/testdata/raw/master/meta/ERR3451456_short_R2.fastq.gz
+ERR3451570,https://github.com/nibscbioinformatics/testdata/raw/master/meta/ERR3451570_short_R1.fastq.gz,https://github.com/nibscbioinformatics/testdata/raw/master/meta/ERR3451570_short_R2.fastq.gz
+ERR3645029,https://github.com/nibscbioinformatics/testdata/raw/master/meta/ERR3645029_short_R1.fastq.gz,https://github.com/nibscbioinformatics/testdata/raw/master/meta/ERR3645029_short_R2.fastq.gz
